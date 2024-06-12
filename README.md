@@ -1,5 +1,6 @@
 # Pig-Gamble
 It's a game of 2-10 players where a dice is rolled, based on which a player wins.
+It's a Command Line Interface game... I will try to make a GUI but it's already available in the market made by other developers.
 
 # Rules of the game are as follows:
   - Enter the number of players (2-4) to start a new game.

@@ -118,7 +118,7 @@ public class Pig {
 
     public static void printHelp() {
         System.out.println("\nPig Game Help:");
-        System.out.println("  - Enter the number of players (2-4) to start a new game.");
+        System.out.println("  - Enter the number of players (2-10) to start a new game.");
         System.out.println("  - During your turn, enter 'y' to roll the dice and 'n' to stop.");
         System.out.println("  - The first one to get a non-zero score wins! Only if the other players get zero in their turns. Now enjoy!!");
         System.out.println("  - '/help' - Displays this help menu.");
